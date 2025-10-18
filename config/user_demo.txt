@@ -43,6 +43,7 @@ CCTV-17
 翡翠台
 明珠台
 TVB Plus
+J2
 无线新闻台
 Viutv
 Viutv6
